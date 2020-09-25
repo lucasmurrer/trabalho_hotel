@@ -22,3 +22,14 @@ Cont_solteiro	int	Armazena a quantidade de quartos de solteiro ainda disponívei
 Cont_deluxe	Int	Armazena a quantidade de quartos deluxe ainda disponíveis.
 Cont_presidencial	Int	Armazena a quantidade de quartos presidenciais ainda disponíveis.
 Cont_presidencialM	int	Armazena a quantidade de quartos presidenciais master ainda disponíveis.
+|nome do campo|tipo |cescrição
+|-------------|------|-----
+|cheking|int|armaenar a data de chegada do cliente no hotel
+|Check_out|int|Armazena a data de saída do cliente no hotel.
+|Conta_final|float|Armazena o valor gasto pelo cliente.
+|Qnt_pessoas|int|Armazena a quantidade de pessoas por quarto.
+|Cont_casal|int|Armazena a quantidade de quartos de casal ainda disponíveis.
+|Cont_solteiro|int|Armazena a quantidade de quartos de solteiro ainda disponíveis.
+|Cont_deluxe|int|Armazena a quantidade de quartos deluxe ainda disponíveis.
+|Cont_presidencial|int|Armazena a quantidade de quartos presidenciais ainda disponíveis.
+|cont_diasextras|int|armazena caso a pessoa fique mais doque o esperado
